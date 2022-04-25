@@ -1,9 +1,7 @@
 # ConvertPDLJsonToTextResume-Java
 It is a sample code
 
-Java ConvertPDLJsonToTextResume Sample code help to convert People Data Labs json to text resume.
-
-- This sample code convert json to text resumes.
+- This sample code help to convert People Data Labs json to text resume.
 - It takes json and create text resume in Output folder with unique name.
 
 ## Requirements:
